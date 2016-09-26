@@ -10,6 +10,7 @@ import (
 	"time"
 )
 
+
 func main(){
 
 	btcdHomeDir := btcutil.AppDataDir("btcd", false)

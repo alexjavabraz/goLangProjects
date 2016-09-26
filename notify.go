@@ -9,6 +9,7 @@ import (
     "time"
 )
 
+
 func main() {
     // Setup handlers for blockconnected and blockdisconnected
     // notifications.

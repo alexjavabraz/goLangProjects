@@ -10,6 +10,7 @@ import(
     "fmt"
 )
 
+
 func main(){
 
     btcdHomeDir := btcutil.AppDataDir("btcd", false)
