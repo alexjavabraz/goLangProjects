@@ -1,6 +1,15 @@
 package main
 
 import (
-    "fmt"
+	"fmt"
 )
 
+func main() {
+	b := 2
+
+	if b == 1 {
+		fmt.Println("IF")
+	} else {
+		fmt.Println("ELSE")
+	}
+}
